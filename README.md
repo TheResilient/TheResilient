@@ -8,11 +8,10 @@
 
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ikshitijsingh"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/singh_kshitij/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
-<a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/pratik-phadtare/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/PratikPhadtare9"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_pratik_8932/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:pratikphadtare109@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 </p>
 
 
