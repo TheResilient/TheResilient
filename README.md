@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about python
 - ⚡ Fun fact: want to work on AOSP
 -->
-<img src=https://github-profile-trophy.vercel.app/?username=Pratik282001&theme=gruvbox>
+<a><img src=https://github-profile-trophy.vercel.app/?username=Pratik282001&theme=gruvbox></a>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/ikshitijsingh/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
