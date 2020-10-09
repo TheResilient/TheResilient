@@ -14,3 +14,7 @@
 <a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 <a href="https://mytrashcode.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
 </p>
+
+
+![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=Pratik282001&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik282001&layout=compact&hide_border=true)
