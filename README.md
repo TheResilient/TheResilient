@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with applications of tensorflow
 - 💬 Ask me about python
 - ⚡ Fun fact: want to work on AOSP
+- :wink: I love touch typing
 
 
 <p align='center'>
