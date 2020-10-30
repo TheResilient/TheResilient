@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on open cv, tensorflow coursera
+- 🔭 I’m currently working on open cv
 - 🌱 I’m currently learning data structure in cpp
 - 🤔 I’m looking for help with applications of tensorflow
 - 💬 Ask me about python
