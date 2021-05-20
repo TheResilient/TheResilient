@@ -18,3 +18,6 @@
 
 ![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=Pratik282001&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik282001&layout=compact&hide_border=true)
+
+## ꜱᴘᴏᴛɪꜰʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ:
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/hash-bash)
