@@ -15,9 +15,11 @@
 <a href="mailto:pratikphadtare109@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 </p>
 
+## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
+[<img alt="Saurabh Domes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-bash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
+[<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-bash&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
+<br />
 
-![Kshitij's github stats](https://github-readme-stats.vercel.app/api?username=Pratik282001&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik282001&layout=compact&hide_border=true)
 
 ## ꜱᴘᴏᴛɪꜰʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ:
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/hash-bash)
