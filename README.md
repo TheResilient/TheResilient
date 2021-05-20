@@ -22,4 +22,4 @@
 
 
 ## ꜱᴘᴏᴛɪꜰʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ:
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/hash-bash)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/Pratik282001)
