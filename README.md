@@ -16,7 +16,7 @@
 </p>
 
 ## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
-[<img alt="Saurabh Domes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-bash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
+[<img alt="Pratik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pratik282001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
 [<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-bash&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
 <br />
 
