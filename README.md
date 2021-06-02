@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ___
+- 🔭 I’m currently working on PostgreSQL
 - 🌱 I’m currently learning data structure in cpp
 - 💬 Ask me about python
 - ⚡ Fun fact: want to work on AOSP
