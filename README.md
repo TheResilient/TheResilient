@@ -17,9 +17,9 @@
 
 ## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
 [<img alt="Pratik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheResilient&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/TheResilient)
-[<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheResilient&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/Pratik282001)
+[<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheResilient&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/TheResilient)
 <br />
 
 
 ## ꜱᴘᴏᴛɪꜰʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ:
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/Pratik282001)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/TheResilient)
