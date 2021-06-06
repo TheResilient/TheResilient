@@ -23,3 +23,5 @@
 
 ## ꜱᴘᴏᴛɪꜰʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ:
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/TheResilient)
+
+![image](https://user-images.githubusercontent.com/54789620/120912676-c95f3080-c6ae-11eb-9fce-6c849fb600d2.png)
