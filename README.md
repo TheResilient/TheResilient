@@ -6,6 +6,7 @@
 - 💬 Ask me about python
 - ⚡ Fun fact: want to work on AOSP
 - :wink: I love touch typing
+- :octocat: My resume website: TheResilient/Portfolio
 
 
 <p align='center'>
