@@ -24,5 +24,6 @@
 ## ꜱᴘᴏᴛɪꜰʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ:
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/TheResilient)
 
-<a href="https://samy.pl"><img align=center src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="50%" height="50%"></a>
+
+<center><a href="https://theresilient.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="50%" height="50%"></a></center>
 
