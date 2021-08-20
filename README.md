@@ -1,3 +1,4 @@
+```python
 class KiLJ4EdeN:
     """
     Hey there i'm Abdolkarim,
@@ -42,8 +43,7 @@ if __name__ == '__main__':
     me = KiLJ4EdeN()
     exit(0)
 
-
-
+```
 
 
 ### Hi there 👋
