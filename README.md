@@ -1,46 +1,33 @@
 ```python
-class KiLJ4EdeN:
+class Pratik:
     """
-    Hey there i'm Abdolkarim,
-    I currently work as a Machine Learning Developer at Vosouq.
-    I’m researching on Facial Verification Systems and Cognitive Sciences.
-    I’m also learning Low Level Deep Learning and System Administration.
+    Hey there i'm Pratik,
+    
     """
     def __init__(self):
-        self.username = 'KiLJ4EdeN'
-        self.name = 'Abdolkarim Saeedi'
-        self.email = 'a-saeedi@srbiau.ac.ir'
-        self.scholar = 'http://scholar.google.com/citations?user=ef3H4RAAAAAJ&hl=en'
-        self.linkedin = 'https://ir.linkedin.com/in/abdolkarim-saeedi-7b0699194'
-        self.researchgate = 'https://www.researchgate.net/profile/Abdolkarim_Saeedi'
-        self.stack = 'https://stackoverflow.com/users/13962062/kilj4eden'
-        self.kaggle = 'https://www.kaggle.com/kiljaeden'
-        self.interests = ['Artificial Intelligence', 'Computer Vision',
-                          'Signal Processing', 'Cognitive Sciences']
+        self.username = 'Pratik'
+        self.name = 'Pratik Phadtare'
+        self.email = 'pratikphadtare109@gmail.com'
+        self.linkedin = 'https://www.linkedin.com/in/pratik-phadtare-66651518b/'
+        self.stack = 'https://stackoverflow.com/users/15973475/pratik-sunil-phadtare'
+        self.interests = ['Artificial Intelligence', 'Computer Vision', 'Cognitive Sciences']
         self.skills = {
-            'ai': ['TensorFlow', 'Keras', 'Mxnet', 'Gluon', 'd2l', 'PyTorch',
-                   'ONNX', 'Autokeras', 'Sklearn', 'LightGBM', 'CatBoost',
-                   'XGBoost', 'Darknet', 'tflite', 'cuDNN', 'CUDA', 'MKL',
-                   'OpenVINO', 'NNPACK'],
-            'computer vision': ['OpenCV', 'Dlib', 'Skimage', 'PIL'],
-            'data': ['Numpy', 'Scipy', 'Pandas', 'Matplotlib', 'Seaborn', 'Plotly', 
-                     'Dash', 'Bokeh'],
+            'computer vision': ['OpenCV', 'PIL'],
+            'data': ['Numpy', 'Pandas', 'Matplotlib'],
             'frontend': ['HTML', 'CSS', 'JavaScript'],
-            'backend': ['Python', 'C++', 'MATLAB'],
-            'web': ['Flask', 'FastAPI', 'Django'],
+            'backend': ['Python', 'C++'],
+            'web': ['Flask', 'Django'],
             'database': ['MySQL', 'SQLite3', 'MongoDB'],
-            'devops': ['Docker', 'uWSGI', 'Gunicorn', 'Locust', 'ngrok'],
-            'tools': ['git', 'vim', 'PyCharm', 'OpenAPI', 'Jupyter notebook',
+            'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
-            'misc': ['bash', 'CentOS/RHEL/Debian', 'ARM', 'vmware', 'kvm'],
-            'games': {'LeagueOfLegends': 'https://eune.op.gg/summoner/userName=KiLJ4EdeN',
-                      'ClashRoyale': 'https://royaleapi.com/player/2099V0LQ'
+            'games': {'ClashOfClans': 'Will add afterwards',
+                      'ClashRoyale': 'Will add afterwards'
                       },
         }
 
 
 if __name__ == '__main__':
-    me = KiLJ4EdeN()
+    me = Pratik()
     exit(0)
 
 ```
@@ -73,5 +60,5 @@ if __name__ == '__main__':
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/TheResilient)
 
 
-<center><a href="https://theresilient.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/samyk/samyk/main/.../c.svg" width="50%" height="50%"></a></center>
+
 
