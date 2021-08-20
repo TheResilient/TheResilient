@@ -1,7 +1,9 @@
-class Pratik:
+class KiLJ4EdeN:
     """
-    Hey there i'm Pratik,
-    
+    Hey there i'm Abdolkarim,
+    I currently work as a Machine Learning Developer at Vosouq.
+    I’m researching on Facial Verification Systems and Cognitive Sciences.
+    I’m also learning Low Level Deep Learning and System Administration.
     """
     def __init__(self):
         self.username = 'KiLJ4EdeN'
@@ -37,8 +39,9 @@ class Pratik:
 
 
 if __name__ == '__main__':
-    me = Pratik()
+    me = KiLJ4EdeN()
     exit(0)
+
 
 
 
