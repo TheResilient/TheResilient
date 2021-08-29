@@ -1,7 +1,7 @@
 ```python
 class Pratik:
     """
-    Hey there i'm Pratik,
+    Hey there Pratik here 👋,
     
     """
     def __init__(self):
