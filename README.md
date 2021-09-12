@@ -36,7 +36,7 @@ if __name__ == '__main__':
 ### Hi there 👋
 
 - 🔭 I’m currently working on threejs
-- 🌱 I’m currently learning data structure in cpp
+- 🌱 I’m currently learning data structure in cpp(100daysofcode)
 - 💬 Ask me about python
 - ⚡ Fun fact: want to work on AOSP
 - :wink: I love touch typing
