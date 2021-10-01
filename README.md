@@ -17,7 +17,7 @@ class Pratik:
             'frontend': ['HTML', 'CSS', 'JavaScript'],
             'backend': ['Python', 'C++'],
             'web': ['Flask', 'Django'],
-            'database': ['MySQL', 'SQLite3', 'MongoDB'],
+            'database': ['MySQL', 'SQLite3', 'MongoDB', 'firebase'],
             'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
             'games': {'ClashOfClans': 'Will add afterwards',
