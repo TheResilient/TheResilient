@@ -20,9 +20,7 @@ class Pratik:
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'firebase'],
             'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook',
                       'Anaconda', 'Gitlab', 'Bitbucket'],
-            'games': {'ClashOfClans': 'Will add afterwards',
-                      'ClashRoyale': 'Will add afterwards'
-                      },
+            
         }
 
 
