@@ -19,7 +19,7 @@ class Pratik:
             'web': ['Flask', 'Django'],
             'database': ['MySQL', 'SQLite3', 'MongoDB', 'firebase'],
             'tools': ['git', 'vim', 'PyCharm', 'Jupyter notebook',
-                      'Anaconda', 'Gitlab', 'Bitbucket'],
+                      'Anaconda', 'Gitlab'],
             
         }
 
